@@ -1,6 +1,6 @@
 # react-example-search_images
 
-##Creat React App 勉強するためのリポジトリです。
+## Creat React App 勉強するためのリポジトリです。
 
 **Youtubeで見たチュートリアルを参考にして作製しました。**
 
