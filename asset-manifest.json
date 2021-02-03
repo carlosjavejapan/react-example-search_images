@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-example-search_images/static/css/main.6f3e900d.chunk.css",
+    "main.js": "/react-example-search_images/static/js/main.c63eff11.chunk.js",
+    "main.js.map": "/react-example-search_images/static/js/main.c63eff11.chunk.js.map",
+    "runtime-main.js": "/react-example-search_images/static/js/runtime-main.a4157cff.js",
+    "runtime-main.js.map": "/react-example-search_images/static/js/runtime-main.a4157cff.js.map",
+    "static/js/2.0cb40182.chunk.js": "/react-example-search_images/static/js/2.0cb40182.chunk.js",
+    "static/js/2.0cb40182.chunk.js.map": "/react-example-search_images/static/js/2.0cb40182.chunk.js.map",
+    "index.html": "/react-example-search_images/index.html",
+    "service-worker.js": "/react-example-search_images/service-worker.js",
+    "service-worker.js.map": "/react-example-search_images/service-worker.js.map",
+    "static/css/main.6f3e900d.chunk.css.map": "/react-example-search_images/static/css/main.6f3e900d.chunk.css.map",
+    "static/js/2.0cb40182.chunk.js.LICENSE.txt": "/react-example-search_images/static/js/2.0cb40182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4157cff.js",
+    "static/js/2.0cb40182.chunk.js",
+    "static/css/main.6f3e900d.chunk.css",
+    "static/js/main.c63eff11.chunk.js"
+  ]
+}
